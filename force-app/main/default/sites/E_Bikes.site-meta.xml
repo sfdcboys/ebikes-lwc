@@ -23,10 +23,10 @@
     <referrerPolicyOriginWhenCrossOrigin
     >true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>pattikondaveerateja@brave-wolf-rwptqi.com</siteAdmin>
+    <siteAdmin>pattikondaveerateja@playful-otter-2vhw3x.com</siteAdmin>
     <siteGuestRecordDefaultOwner
-    >pattikondaveerateja@brave-wolf-rwptqi.com</siteGuestRecordDefaultOwner>
+    >pattikondaveerateja@playful-otter-2vhw3x.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>brave-wolf-rwptqi-dev-ed</subdomain>
+    <subdomain>playful-otter-2vhw3x-dev-ed</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
